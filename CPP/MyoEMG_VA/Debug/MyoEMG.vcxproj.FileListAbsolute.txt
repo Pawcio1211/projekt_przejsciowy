@@ -1,0 +1,4 @@
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\Debug\MyoEMG.vcxproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\Debug\MyoEMG.MyForm.resources
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\Debug\MyoEMG.vcxproj.GenerateResource.cache
+C:\Users\pawel\Desktop\Praca_przejściowa\CPP\MyoEMG_VA\Debug\MyoEMG.exe
